@@ -1,0 +1,6 @@
+﻿  TicTacToe.cpp
+C:\Users\jayso\OneDrive\Desktop\Person C++\TicTacToe\TicTacToe\TicTacToe.cpp(43,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\jayso\OneDrive\Desktop\Person C++\TicTacToe\TicTacToe\TicTacToe.cpp(163,11): warning C4101: 'value': unreferenced local variable
+C:\Users\jayso\OneDrive\Desktop\Person C++\TicTacToe\TicTacToe\TicTacToe.cpp(161,9): warning C4101: 'chosen': unreferenced local variable
+C:\Users\jayso\OneDrive\Desktop\Person C++\TicTacToe\TicTacToe\TicTacToe.cpp(164,10): warning C4101: 'repeat': unreferenced local variable
+  TicTacToe.vcxproj -> C:\Users\jayso\OneDrive\Desktop\Person C++\TicTacToe\x64\Debug\TicTacToe.exe
